@@ -4,6 +4,6 @@ empirical data sets,while their fundamental relation is far from being fully und
 heterogeneous population landscape by generating a fractal geometry of sites and then by assigning to each site a population independently
 drawn from a power-law distribution. Then the radiation model on this population landscape,which we call the radiation-on-landscape (RoL) model, 
 is compared to the modified gravity model to understand how the distance exponent in the modified gravity model is vary according to properties
-of the population landscape, population sizes of origin and destination patches. Then, confirmed by the numerical simulations. Consequently, 
-these properties of the distance exponent, radiation model and multi-patch SIR model are used to study how human mobility impacts the spread of
+of the population landscape, furthermore it confirmed by the numerical simulations. Moreover, 
+the radiation model and multi-patch SIR model are used to study how human mobility impacts the spread of
 infectious diseases.
